@@ -1,5 +1,8 @@
 # Server_check
-Python script to check if server responding or not
+>Python script to check if server responding or not<br>
+>if the server is responding the script will redirect to the website you assigned variable ``` website ```
+>if server is not responding threading will keep checking 
+>and finally prints<br> *server is not responding...*
 ### Requirements:
    - Python 3.x or higher
    - colorama (for diffrent colour output)
